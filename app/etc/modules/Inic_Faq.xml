@@ -3,7 +3,7 @@
 	<modules>
 		<Inic_Faq>
 			<active>true</active>
-			<codePool>local</codePool>
+			<codePool>community</codePool>
 		</Inic_Faq>
 	</modules>
 </config>
